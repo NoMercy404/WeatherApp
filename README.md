@@ -64,7 +64,7 @@ php -S localhost:8000
   <li>In case of an invalid API key or another issue, an appropriate error message will be shown.</li>
 </ol>
 
-<img src= https://github.com/user-attachments/assets/b9e86e03-9d7b-405b-8a41-0824bee5be5d width = "500" height = "500">
+<img src= https://github.com/user-attachments/assets/b9e86e03-9d7b-405b-8a41-0824bee5be5d width = "700" height = "500">
 
 
 
