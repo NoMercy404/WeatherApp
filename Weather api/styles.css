@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #ff7e5f, #6a11cb); /* Ciepły gradient */
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.15);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(15px);
+    width: 350px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+h1 {
+    color:#ffffff;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.3);
+    color: white;
+}
+
+input::placeholder {
+    color: rgba(0, 0, 0, 0.7);
+}
+#weather input[type="text"] {
+    color:#120209;
+    }
+button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #ffcc00;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #ffd633;
+}
+
+#weather-result {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+.weather-detail {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 15px;
+}
+
+.weather-detail img.icon {
+    margin-right: 10px; /* Odstęp między ikoną a tekstem */
+}
+
+.weather-detail span {
+    font-size: 14px;
+    margin-right: 15px; /* Odstęp między poszczególnymi elementami tekstowymi */
+}
+
+
+.weather-detail span, .weather-detail img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.weather-detail span:last-child {
+    margin-right: 0; /* Usunięcie marginesu po ostatnim elemencie */
+}
+
+.weather-detail img {
+    width: 30px;
+    height: 30px;
+}
