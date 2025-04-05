@@ -46,7 +46,7 @@ php -S localhost:8000
 ```
 ### 6. Open your browser and go to <strong> http://localhost:8000 </strong> to see the app in action.
 
-![image](https://github.com/user-attachments/assets/e96152db-6d8e-4247-a1d2-645b6d6400ae)
+![image](https://github.com/user-attachments/assets/e96152db-6d8e-4247-a1d2-645b6d6400ae =200x200)
 ### 💬 How to Use
 <ol>
   <li>Enter the name of the city in the input box.</li>
