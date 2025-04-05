@@ -46,6 +46,24 @@ php -S localhost:8000
 ```
 ### 6. Open your browser and go to <strong> http://localhost:8000 </strong> to see the app in action.
 
+![image](https://github.com/user-attachments/assets/e96152db-6d8e-4247-a1d2-645b6d6400ae)
+### 💬 How to Use
+<ol>
+  <li>Enter the name of the city in the input box.</li>
+  <li>Click the "Get Weather" button.</li>
+  <li>The weather data for the specified city will be displayed below the form.</li>
+</ol>
+![image](https://github.com/user-attachments/assets/4d0a145e-a04c-4841-a415-c9b17078f88e)
+
+### 🚨 Error Handling
+<ol>
+  <li>If the entered city does not exist or cannot be found, the app will display an error message: "City not found."</li>
+  <li>In case of an invalid API key or another issue, an appropriate error message will be shown.</li>
+</ol>
+![image](https://github.com/user-attachments/assets/29a712bf-9088-4f9c-8d13-ac0679126a1f)
+
+
+
 
 
 
