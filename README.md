@@ -53,14 +53,18 @@ php -S localhost:8000
   <li>Click the "Get Weather" button.</li>
   <li>The weather data for the specified city will be displayed below the form.</li>
 </ol>
-![image](https://github.com/user-attachments/assets/4d0a145e-a04c-4841-a415-c9b17078f88e)
+
+![image](https://github.com/user-attachments/assets/a7d3c8c1-6130-49c2-a1ac-280241053148)
+
 
 ### 🚨 Error Handling
 <ol>
   <li>If the entered city does not exist or cannot be found, the app will display an error message: "City not found."</li>
   <li>In case of an invalid API key or another issue, an appropriate error message will be shown.</li>
 </ol>
-![image](https://github.com/user-attachments/assets/29a712bf-9088-4f9c-8d13-ac0679126a1f)
+
+![image](https://github.com/user-attachments/assets/b9e86e03-9d7b-405b-8a41-0824bee5be5d)
+
 
 
 
