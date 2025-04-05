@@ -46,7 +46,7 @@ php -S localhost:8000
 ```
 ### 6. Open your browser and go to <strong> http://localhost:8000 </strong> to see the app in action.
 
-<img src="https://github.com/user-attachments/assets/e96152db-6d8e-4247-a1d2-645b6d6400ae" width="400" height="600">
+<img src="https://github.com/user-attachments/assets/e96152db-6d8e-4247-a1d2-645b6d6400ae" width="800" height="600">
 
 ![image](https://github.com/user-attachments/assets/e96152db-6d8e-4247-a1d2-645b6d6400ae)
 ### 💬 How to Use
